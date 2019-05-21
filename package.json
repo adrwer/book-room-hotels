@@ -60,7 +60,8 @@
     "react-dom": "^16.0.0",
     "react-router-dom": "^4.2.2",
     "react-test-renderer": "^16.0.0",
-    "shortid": "^2.2.8"
+    "shortid": "^2.2.8",
+    "tar": "^4.4.8"
   },
   "jest": {
     "moduleNameMapper": {
