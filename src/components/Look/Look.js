@@ -109,7 +109,7 @@ export default class Look extends Component {
 
               {roomId ?
               <h3 class='title'>Room Schedule | {roomInfo.value}</h3> :
-              <h3 class='title'>Personal Schedule</h3>
+              <h3 class='title'>Daily Schedule</h3>
               }
 
             </div>

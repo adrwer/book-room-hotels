@@ -10,7 +10,7 @@ const express          = require('express'),
 
 const config           = require('./server/config');
 
-const port = process.env.PORT || 8008;
+const port = process.env.PORT || 3001;
 const app = express();
 
 mongoose.Promise = global.Promise;

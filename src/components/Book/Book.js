@@ -61,7 +61,7 @@ export default class Book extends Component {
                       key={`room-${i}`}
                       name={el.value}
                       roomId={el._id}
-                      meeting={'Test meeting'}
+                      meeting={'Safaripark Limited'}
                       callBookForm={() => this.toggleBookForm(el._id, el.value)}
                     />;
             })}
